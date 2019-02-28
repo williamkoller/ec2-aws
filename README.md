@@ -9,6 +9,7 @@
 <br/>
 ° sudo install var_dump
 <br/>
+° python arquivo.py
   
 
 
