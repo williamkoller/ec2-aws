@@ -1,5 +1,6 @@
 # ec2-aws
-<h4>Passos para poder rodar o comando no Ubuntu ou Windows<h4/>
+<h4>Steps to run the command on Ubuntu or Windows
+<h4/>
 <br/>
 º install pip 3.6 ubuntu via command
 <br/>
