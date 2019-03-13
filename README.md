@@ -2,7 +2,7 @@
 <h4>Steps to run the command on Ubuntu or Windows
 <h4/>
 <br/>
-º install pip 3.6 ubuntu via command
+º install pip 3.6 
 <br/>
 º sudo install pip 
 <br/>
@@ -10,7 +10,7 @@
 <br/>
 ° sudo install var_dump
 <br/>
-° python arquivo.py
+° python archive.py
   
 
 
