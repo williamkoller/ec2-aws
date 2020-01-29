@@ -1,17 +1,11 @@
-# ec2-aws
-<h4>Steps to run the command on Ubuntu or Windows
-<h4/>
-<br/>
-º install pip 3.6 
-<br/>
-º sudo install pip 
-<br/>
-º sudo install python 
-<br/>
-° sudo install var_dump
-<br/>
-° python archive.py
-  
+# to run the code in python you need these settings
+
+<ul>
+    <li>installed python 2.7</li>
+    <li>installed aws cli</li>
+</ul>
+
+### then you just run the ``` aws configure ``` command with the config and credentials
 
 
-
+#### then you just run the ```python file.py``` command
